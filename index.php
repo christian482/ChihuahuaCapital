@@ -54,7 +54,7 @@ $config = [
 	//VILLAHERMOSA
 	[
   	'token' => 'EAAEjhZCs9rxYBAEhMMpIehZCun2MQTArYJRKgtf7aexQU8ZCrXaqzTqdTVAByHZCuwZBIWtKk1n5GiCI6Rv8KRX4BPsGxj7hXEr8ZAriAnvpph9FZCHRqbBBqLAAA5Miblj3fVjXPobweKwNNjzmkjplrzVsepWj8QlBXswDuYPiy6XVoBpBwpM',
-	'app_secret' => 'a0b745ed247ea5c7b049435443217154',
+	'app_secret' => '01762be967ec140f534f2aa71cff2793',
     'verification'=>'d8wkg9wkflaaeha54qyhf5yadfjaibs3iwro203852',
 	]
 ];
